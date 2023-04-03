@@ -1,4 +1,4 @@
-# React Template by Marie Impens
+# React Template with CRA by Marie Impens
 
 Personal template used to create new React apps quickly with CRA.
 
