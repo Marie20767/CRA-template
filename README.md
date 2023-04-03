@@ -1,6 +1,6 @@
 # React Template by Marie Impens
 
-Personal template used to create new React apps quickly.
+Personal template used to create new React apps quickly with CRA.
 
 ## Available Scripts
 
